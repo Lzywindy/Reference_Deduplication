@@ -31,3 +31,9 @@ python 文献处理.py --input_file_or_path=prereferences.bib --output_file=refe
 # 文件夹所有文件处理
 python 文献处理.py --input_file_or_path=references_dir --output_file=references.bib
 ```
+
+# 附: 好用的文献查询网站
+
+https://dblp.uni-trier.de/search
+https://dblp.org/
+
